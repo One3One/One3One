@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm One</h1>
 <h3 align="center">I sleep most of the time</h3>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://lunechain.com/wp-content/uploads/2022/07/snek-819x1024.jpg)]([https://rishavchanda.io](https://lunechain.com/wp-content/uploads/2022/07/snek-819x1024.jpg))
 
 - 🔭 I’m currently working on [Raison D'etre](https://raisondetrertb.art/)
 

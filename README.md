@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=one3one&label=Profile%20views&color=0e75b6&style=flat" alt="one3one" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/home?logo=twitter&style=for-the-badge" alt="https://twitter.com/home" /></a> </p>
-
 - 🔭 I’m currently working on [Raison D'etre](https://raisondetrertb.art/)
 
 <h3 align="left">Connect with me:</h3>

@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm One</h1>
 <h3 align="center">I sleep most of the time</h3>
-<p align="center">
+
 [![RTB](https://lunechain.com/wp-content/uploads/2022/07/snek-819x1024.jpg)]([https://rishavchanda.io](https://lunechain.com/wp-content/uploads/2022/07/snek-819x1024.jpg))
    </p>
 
 - 🔭 I’m currently working on [Raison D'etre](https://raisondetrertb.art/)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h3 align="left">Connect with me:</h3>

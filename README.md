@@ -4,8 +4,6 @@
 ![Github Banner](https://lunechain.com/wp-content/uploads/2022/08/card.jpg)
 
 
-- 🔭 I’m currently working on [Raison D'etre](https://raisondetrertb.art/)
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 

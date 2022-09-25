@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm One</h1>
-<h3 align="center">I sleep most of the time</h3>
+<h3 align="center"></h3>
 
 ![Github Banner](https://lunechain.com/wp-content/uploads/2022/08/card.jpg)
 

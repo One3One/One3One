@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm One</h1>
 <h3 align="center"></h3>
 
-![Github Banner](https://lunechain.com/wp-content/uploads/2022/08/card.jpg)
+<!-- ![Github Banner](https://lunechain.com/wp-content/uploads/2022/08/card.jpg) -->
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
